@@ -1,5 +1,5 @@
 TN:
-SF:backend\api.js
+SF:backend/api.js
 FN:3,(anonymous_0)
 FN:7,(anonymous_1)
 FNF:2
@@ -17,7 +17,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:backend\events.js
+SF:backend/events.js
 FNF:0
 FNH:0
 DA:1,0
@@ -27,7 +27,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:backend\index.js
+SF:backend/index.js
 FN:1,(anonymous_0)
 FNF:1
 FNH:0
@@ -40,7 +40,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\1passfail.js
+SF:src/1passfail.js
 FN:1,add
 FNF:1
 FNH:1
@@ -53,7 +53,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\2collection.js
+SF:src/2collection.js
 FN:1,getArrLength
 FNF:1
 FNH:1
@@ -66,7 +66,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\3datadriven.js
+SF:src/3datadriven.js
 FN:1,multiply
 FNF:1
 FNH:1
@@ -79,7 +79,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\4performance.js
+SF:src/4performance.js
 FN:1,timerClock
 FN:2,(anonymous_1)
 FN:2,(anonymous_2)
@@ -96,7 +96,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\5process.js
+SF:src/5process.js
 FN:1,processes
 FNF:1
 FNH:1
@@ -112,7 +112,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\6simulation.js
+SF:src/6simulation.js
 FN:1,dataSim
 FN:2,(anonymous_1)
 FNF:2
@@ -127,7 +127,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\7multi.js
+SF:src/7multi.js
 FN:1,asyncTask
 FN:2,(anonymous_1)
 FN:2,(anonymous_2)
@@ -144,7 +144,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\8stress.js
+SF:src/8stress.js
 FN:1,sum
 FN:2,(anonymous_1)
 FNF:2
@@ -159,7 +159,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\isInteger.js
+SF:src/isInteger.js
 FNF:0
 FNH:0
 LF:0
@@ -168,7 +168,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\palindrome.js
+SF:src/palindrome.js
 FN:1,(anonymous_0)
 FNF:1
 FNH:1
