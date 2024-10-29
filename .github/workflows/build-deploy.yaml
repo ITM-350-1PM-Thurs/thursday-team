@@ -5,7 +5,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: {carsonbm}/itm350-bb
+  REPO_NAME: carsonbm/itm350-bb
 
 jobs:
   if_merged:
